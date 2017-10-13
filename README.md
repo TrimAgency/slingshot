@@ -1,0 +1,1 @@
+# static-page-starter-template
