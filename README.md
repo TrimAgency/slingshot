@@ -62,9 +62,10 @@ To reference the image in your html:
 ```
 In your SCSS:
 ```
-.image-class
+.image-class {
   background-image: url('../images/pic.svg');
   ...
+}
 ```
 
 ### Fonts
