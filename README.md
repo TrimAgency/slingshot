@@ -58,7 +58,7 @@ import $ from jQuery
 Place images in the `src/assets/images/` folder.  
 To reference the image in your html:
 ```
-<img src"./assets/images/pic.svg" />
+<img src="./assets/images/pic.svg" />
 ```
 In your SCSS:
 ```
